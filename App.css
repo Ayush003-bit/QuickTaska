@@ -1,0 +1,96 @@
+
+.header{
+    padding: 10px 10px;
+    background-color: rgb(46, 46, 157);
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    width: 50%;
+    margin: auto;
+}
+
+.inputbox{
+      padding: 10px 15px;
+      border-radius: 5px;
+      font-weight: bold;
+
+}
+
+.btn{
+  padding: 10px 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(216, 86, 86);
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin: 0px 5px;
+}
+
+.inputfields {
+      display: flex;
+      justify-content: center;
+      margin-top: 3%;
+
+}
+
+.list-heading{
+     text-align: center;
+     width: 50%;
+     margin: auto;
+     font-weight: bold;
+     background-color: rgb(175, 96, 67);
+     color: white;
+     padding: 3px 3px;
+     margin-top: 2%;
+     
+}
+
+/*.data-section{
+       display: flex;
+       justify-content: center;
+} */
+
+.para {
+      width: 40%;
+      display: flex;
+      justify-content: space-between;
+      text-align: center;
+       background-color: black;
+       color: white;
+       padding: 8px 10px;
+       margin: 8px 5px;
+       border-radius: 5px;
+       margin-left: 30%;
+      
+}
+
+.Data{
+      padding: 3px 10px;
+      font-weight: 700;
+
+}
+
+.remove-btn{
+        border: none;
+        padding: 5px 10px;
+        background-color: red;
+        color: white;
+        border-radius: 5px;
+        font-weight: 800;
+        margin-left: 3%;
+
+}
+
+.removeAll{
+       display: block;
+       margin: auto;
+       border: none;
+       padding: 15px 20px;
+       background-color: rgb(32, 32, 155);
+       color: white;
+       border-radius: 25px;
+       font-weight: bold;
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
